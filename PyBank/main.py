@@ -48,7 +48,11 @@ with open(budget_csv, 'r') as csvfile:
     print("Greatest Increase in Profits: ", GIdate, "($", GI, ")")
     print("Greatest Decrease in Profits: ", GDdate, "($", GD, ")")
 
-with open("analysis.txt", "w") as txtfile:
+# set path for txt file
+txtpath = os.path.join("analysis", "analysis.txt")
+
+# send results to txt file
+with open(txtpath, "w") as txtfile:
     txtfile.write("Financial Analysis\n")
     txtfile.write("----------------------------\n")
     txtfile.write(f"Total Months: {len(Months)}\n")
