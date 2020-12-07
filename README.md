@@ -21,7 +21,7 @@ For this challenge I created a Python script that analyzes the records in the bu
 
 (PyPoll)
 
-As for this challenge, I created a Python script that analyzes the votes, county, and candidates in the election_data.csv to calculates each of the following:
+As for this challenge, I created a Python script that analyzes the votes, county, and candidates in the election_data.csv to calculate each of the following:
 
 
   - The total number of votes that were cast.
