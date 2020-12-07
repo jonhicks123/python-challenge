@@ -19,3 +19,20 @@ For this challenge I created a Python script that analyzes the records in the bu
 
    - The greatest decrease in losses over the entire period, including the date and the amount.
 
+(PyPoll)
+
+As for this challenge, I created a Python script that analyzes the votes, county, and candidates in the election_data.csv to calculates each of the following:
+
+
+  - The total number of votes that were cast.
+
+
+  - The percentage of votes that each candidate won.
+
+
+  - The total number of votes each candidate won (within the same line as the percentage).
+
+
+  - The winner of the election based on popular vote.
+  
+For both challenges, their scripts print the results into the terminal as well as a .txt file which is located in the analysis folder under the directory of each challenge.
