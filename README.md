@@ -47,4 +47,7 @@ To run the script and yield the results:
   
   
   - For PyBank, cd into python-challenge, then cd into PyBank directory. For PyPoll, cd into python-challenge, then cd into PyPoll directory.
+  
+  
+  - Lastly, run the code and check out the results!
 
