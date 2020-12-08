@@ -35,7 +35,7 @@ As for this challenge, I created a Python script that analyzes the votes, county
 
   - The winner of the election based on popular vote.
   
-For both challenges, their scripts print the results into the terminal as well as a .txt file which is located in the analysis folder under the directory of each challenge.
+For both challenges, their scripts print the results into the terminal, as well as a separate .txt file which are placed into the analysis folder in the directory of each challenge.
 
 To run the script and yield the results:
  
