@@ -36,3 +36,15 @@ As for this challenge, I created a Python script that analyzes the votes, county
   - The winner of the election based on popular vote.
   
 For both challenges, their scripts print the results into the terminal as well as a .txt file which is located in the analysis folder under the directory of each challenge.
+
+To run the script and yield the results:
+ 
+ 
+  - Download the repository and extract the python-challenge zip to the location of your choice
+  
+  
+  - Open up Visual Studio Code or Spyder and cd into the directory where you extracted this repository.
+  
+  
+  - For PyBank, cd into python-challenge, then cd into PyBank directory. For PyPoll, cd into python-challenge, then cd into PyPoll directory.
+
